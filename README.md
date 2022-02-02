@@ -1,5 +1,5 @@
 # mie1628-project
-Data Analysis of Bank Market Campaign
+UofT MIE 1628 project: Data Analysis of Bank Market Campaign
 - Created machine learning models to predict customer's subscription rate after marketing campaign
 
 Dataset: Bank Marketing Dataset (https://archive.ics.uci.edu/ml/datasets/Bank+Marketing )     
